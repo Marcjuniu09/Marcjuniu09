@@ -26,8 +26,9 @@
 Apaixonado por tecnologia, ciências exatas e com um grande objetivo de mudar a vida das pessoas com programação
 
 ## Cursos
-![(Udemy)][(https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![(Udemy)](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?course_id=2575266)]
 https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/?start=15#overview
+
 Curso em Vídeo
 https://www.cursoemvideo.com/curso/mysql/
