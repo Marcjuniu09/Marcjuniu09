@@ -32,6 +32,6 @@ https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?
 
 https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/?start=15#overview
 
-Curso em Vídeo: 
+Curso em Vídeo
 
 https://www.cursoemvideo.com/curso/mysql/
