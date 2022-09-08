@@ -28,14 +28,15 @@ I'm quite curious and looking to learn more about machine learning artificial in
 
 
 ## Cursos
-![(Udemy)]
 
-https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?course_id=2575266
+[JavaScript (Udemy)](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?course_id=2575266)
 
-https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/?start=15#overview
+[POO Python (Udemy)](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/?start=15#overview)
 
-Curso em Vídeo:
+[MySQL (CeV)](https://www.cursoemvideo.com/curso/mysql/)
 
-https://www.cursoemvideo.com/curso/mysql/
+[Python (CeV)](https://www.cursoemvideo.com/curso/python-3-mundo-3/)
 
-[Flex Grid](http://exemplo.com/)
+[Git e Github (CeV)](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+
+[HTML5 e CSS3 (CeV)](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/)
