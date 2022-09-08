@@ -28,7 +28,7 @@ I'm quite curious and looking to learn more about machine learning artificial in
 
 
 ## Cursos
-![(Udemy)](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![(Udemy)]
 
 https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?course_id=2575266
 
