@@ -1,4 +1,6 @@
 ## hi! I'm Marcelo Junio 🖐️
+Currently learning the main technologies aimed at the backend and developing projects for my personal learning.
+I'm quite curious and looking to learn more about machine learning artificial intelligence. If you want to talk contact me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelojunio09/?hl=pt-br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-junio-carvalho-de-esp%C3%ADndola-ab4526183/)
