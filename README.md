@@ -26,9 +26,9 @@ I'm quite curious and looking to learn more about artificial intelligence and ma
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-   ![icons8-power-bi-48](https://user-images.githubusercontent.com/100105640/189234093-87cd3089-5a9e-45b4-b102-516d0626c114.png)
 
 </div><br/>
+   ![icons8-power-bi-48](https://user-images.githubusercontent.com/100105640/189234093-87cd3089-5a9e-45b4-b102-516d0626c114.png)
 
 
 
