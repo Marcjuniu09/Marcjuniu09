@@ -1,5 +1,5 @@
 ## hi! I'm Marcelo Junio 🖐️
-Software Engineering student with skills in Python, C, and C++. Experience in data extraction, task automation, and dashboard creation. Interested in artificial intelligence and machine learning, applying these techniques to personal projects. Open to contacts and networking.
+Software Engineering student with extensive knowledge in Python, C, and C++. Experienced in data extraction, task automation, dashboards, and PostgreSQL. Interested in AI and machine learning, constantly evolving through personal and freelance projects. Open to contacts and networking.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelojunio09/?hl=pt-br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-junio-carvalho-de-esp%C3%ADndola-ab4526183/)
