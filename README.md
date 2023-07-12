@@ -2,9 +2,12 @@
 Software Engineering student with extensive knowledge in Python, C, and C++. 
 Experienced in data extraction, task automation, dashboards, and PostgreSQL. 
 Interested in AI and machine learning, constantly evolving through personal and freelance projects. Open to contacts and networking. 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelojunio09/?hl=pt-br) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-junio-carvalho-de-esp%C3%ADndola-ab4526183/) 
+
 ![Marcjuniu09 GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcjuniu09&show_icons=true&theme=dracula&count_private=true) 
+
 ## Technologies I am aware of
 <div style="display: inline_block"> <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img align="center" alt="PostgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> 
