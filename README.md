@@ -1,5 +1,5 @@
 ## hi! I'm Marcelo Junio 🖐️ 
-Software Engineering student with extensive knowledge in Python, C, and C++. 
+Computer Science student with extensive knowledge in Python, C, and C++. 
 Experienced in data extraction, task automation, dashboards, and PostgreSQL. 
 Interested in AI and machine learning, constantly evolving through personal and freelance projects. Open to contacts and networking. 
 
