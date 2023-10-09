@@ -1,7 +1,8 @@
 ## hi! I'm Marcelo Junio 🖐️ 
-Computer Science student with extensive knowledge in Python, C, and C++. 
-Experienced in data extraction, task automation, dashboards, and PostgreSQL. 
-Interested in AI and machine learning, constantly evolving through personal and freelance projects. Open to contacts and networking. 
+Computer Science student and artificial intelligence researcher at UnB. Currently, I dedicate myself
+fully focused on seeking experience and improving my knowledge in processing
+natural language, machine learning and digital image processing.
+Open to contacts and networking. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelojunio09/?hl=pt-br) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-junio-carvalho-de-esp%C3%ADndola-ab4526183/) 
