@@ -1,8 +1,11 @@
 ## hi! I'm Marcelo Junio 🖐️ 
-Computer Science student and artificial intelligence researcher at UnB. Currently, I dedicate myself
-fully focused on seeking experience and improving my knowledge in processing
-natural language, machine learning and digital image processing.
-Open to contacts and networking. 
+Computer Science student with solid experience in AI and data engineering projects across major financial institutions.
+I’ve contributed to real-world machine learning and data engineering solutions at institutions like Banco do Brasil (ML Engineer), Bradesco (Data Engineer), and BTG Pactual, the largest investment bank in Latin America.
+My journey includes developing AI systems for the Superior Labor Court (TST), with a focus on natural language processing, and scalable ML pipelines.
+I’m driven by hands-on challenges that connect advanced technology to impactful results.
+Always open to collaboration, learning, and meaningful connections.
+
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelojunio09/?hl=pt-br) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-junio-carvalho-de-esp%C3%ADndola-ab4526183/) 
